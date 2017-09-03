@@ -1,6 +1,6 @@
-package com.bvan.oop.lesssons5_6.format.oop;
+package com.bvan.oop.lessons5_6.format.oop;
 
-import com.bvan.oop.lesssons5_6.format.Product;
+import com.bvan.oop.lessons5_6.format.Product;
 
 /**
  * @author bvanchuhov

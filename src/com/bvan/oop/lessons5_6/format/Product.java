@@ -1,4 +1,4 @@
-package com.bvan.oop.lesssons5_6.format;
+package com.bvan.oop.lessons5_6.format;
 
 /**
  * @author bvanchuhov
